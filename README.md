@@ -1,5 +1,5 @@
 # Modality-wise-Multple-Instance-Learning
- This reposistory contains the code for the paper Psychophysiological Arousal in Young Children Who Stutter: An Interpretable AI Approach, IMWUT 2022
+ This reposistory contains the code for the paper Psychophysiological Arousal in Young Children Who Stutter: An Interpretable AI Approach, [IMWUT 2022](https://ubicomp.org/ubicomp2022/)
 
 ## Modality Invariant-MIL (MI-MIL) Approach
 
