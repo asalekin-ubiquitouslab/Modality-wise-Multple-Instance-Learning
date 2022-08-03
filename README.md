@@ -3,7 +3,7 @@
 
 ## Modality Invariant-MIL (MI-MIL) Approach
 
-the MI-MIL approach takes the modality-specific bag representations (𝐵𝑚 ={𝑥1𝑚,𝑥2𝑚,...𝑥𝑘𝑚}, 𝑘 = 19,𝑚 = EDA, HR, RSP-amp, RSP-rate) of a 20s physiological sensing data as input. As shown in figure below, MI-MIL has four components: (1) modality specific embedding block, (2) modality specific self-attention pooling block, (3) modality fusion Block, and (4) classifier Block. While the first two blocks are applied to each modality 𝑚 independently, the latter two combine the cross-modality information to generate inference.
+The MI-MIL approach takes the modality-specific bag representations (𝐵𝑚 ={𝑥1𝑚,𝑥2𝑚,...𝑥𝑘𝑚}, 𝑘 = 19,𝑚 = EDA, HR, RSP-amp, RSP-rate) of a 20s physiological sensing data as input. As shown in figure below, MI-MIL has four components: (1) modality specific embedding block, (2) modality specific self-attention pooling block, (3) modality fusion Block, and (4) classifier Block. While the first two blocks are applied to each modality 𝑚 independently, the latter two combine the cross-modality information to generate inference.
 
 ![MI-MIL](https://github.com/asalekin-ubiquitouslab/Modality-wise-Multple-Instance-Learning/blob/main/MIMIL.png)
 
