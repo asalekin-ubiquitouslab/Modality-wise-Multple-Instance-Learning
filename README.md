@@ -11,4 +11,6 @@ The MI-MIL approach takes the modality-specific bag representations (𝐵𝑚 ={
 Harshit Sharma, Yi Xiao, Victoria Tumanova, and Asif Salekin. 2022. Psychophysiological Arousal in Young Children Who Stutter: An Interpretable AI Approach. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 6, 3, Article 137 (September 2022), 32 pages. https://doi.org/10.1145/3550326
 
 ### Contact
+Harshit Sharma,
+SCAI, Arizona State University,
 hsharm62@asu.edu
